@@ -68,7 +68,14 @@ class I18nManager {
    */
   async loadTranslations() {
     try {
-      const response = await fetch('./data/translations.json');
+      // 使用绝对路径，以支持子目录（/zh/, /ja/ 等）
+      // 检测当前路径深度，自动调整路径
+      const pathDepth = window.location.pathname.split('/').filter(p => p).length;
+      const prefix = pathDepth > 0 && !window.location.pathname.endsWith('.html') ? '../' : './';
+      const translationPath = prefix + 'data/translations.json';
+
+      console.log('Loading translations from:', translationPath);
+      const response = await fetch(translationPath);
       if (!response.ok) {
         throw new Error('Failed to load translations');
       }

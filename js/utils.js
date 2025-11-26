@@ -111,14 +111,17 @@ function getUrlParameter(name) {
 function getLanguageFromPath() {
   const path = window.location.pathname;
 
-  // 匹配 /zh, /ja, /ko, /es 等（带或不带尾部斜杠）
-  const match = path.match(/^\/(zh|ja|ko|es)\/?$/);
+  // 匹配路径中的语言代码（支持子目录部署）
+  // 例如: /zh, /zh/, /imposter-game-generator/zh, /imposter-game-generator/zh/
+  const match = path.match(/\/(zh|ja|ko|es)\/?$/);
   if (match) {
     return match[1];
   }
 
-  // 如果是根路径 / 或 /index.html，检查查询参数（向后兼容）
-  if (path === '/' || path === '/index.html' || path === '') {
+  // 如果路径以 / 结尾或包含 index.html，默认为英文
+  // 例如: /, /imposter-game-generator/, /index.html
+  if (path === '/' || path.endsWith('/') || path.endsWith('/index.html') || path === '') {
+    // 检查查询参数（向后兼容）
     const langParam = getUrlParameter('lang');
     if (langParam && ['en', 'zh', 'ja', 'ko', 'es'].includes(langParam)) {
       return langParam;
@@ -126,7 +129,8 @@ function getLanguageFromPath() {
     return 'en';  // 默认英文
   }
 
-  return null;
+  // 其他情况也默认为英文
+  return 'en';
 }
 
 /**

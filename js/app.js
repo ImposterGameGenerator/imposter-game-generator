@@ -143,21 +143,13 @@ class App {
 
       console.log('Language switcher events attached');
 
-      // 语言选项点击事件
+      // 语言选项点击事件 - 允许链接正常跳转到对应的语言路径
       document.querySelectorAll('.language-option').forEach(option => {
         option.addEventListener('click', (e) => {
-          e.preventDefault();  // 阻止链接跳转
-          e.stopPropagation(); // 阻止事件冒泡
+          // 移除 preventDefault，允许链接正常跳转
+          // 链接将导航到 /zh, /ja, /ko, /es 或 / (英文)
           const lang = option.getAttribute('data-lang');
-          console.log('Language option clicked:', lang);
-
-          if (lang && i18n.supportedLocales.includes(lang)) {
-            console.log('Changing locale to:', lang);
-            i18n.setLocale(lang);
-
-            // 关闭下拉菜单
-            this.elements.languageDropdown.classList.add('hidden');
-          }
+          console.log('Language option clicked, navigating to:', lang);
         });
       });
 
