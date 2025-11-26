@@ -1,0 +1,34 @@
+# 编辑器配置
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+
+# 操作系统文件
+Thumbs.db
+desktop.ini
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 环境变量（如果将来添加后端功能）
+.env
+.env.local
+
+# 依赖（如果将来添加构建工具）
+node_modules/
+dist/
+build/
+
+# 备份文件
+*.backup
+*.bak
+*~
+
+# Tasks目录（内部开发文档）
+Tasks/

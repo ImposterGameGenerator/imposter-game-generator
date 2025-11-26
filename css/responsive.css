@@ -1,0 +1,336 @@
+/* ===================================
+   Responsive Styles
+   =================================== */
+
+/* Mobile First Approach - Base styles are for mobile */
+
+/* ===================================
+   Small Tablets and Large Phones
+   min-width: 640px (sm)
+   =================================== */
+
+@media (min-width: 640px) {
+  /* Typography */
+  h1 {
+    font-size: 3rem;
+  }
+
+  /* Word Grid */
+  #wordGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* Spacing */
+  .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* ===================================
+   Tablets
+   min-width: 768px (md)
+   =================================== */
+
+@media (min-width: 768px) {
+  /* Typography */
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  /* Sections */
+  .seo-section {
+    padding: 2.5rem;
+  }
+
+  /* Grid Layouts */
+  .grid-md-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+/* ===================================
+   Large Tablets and Small Desktops
+   min-width: 1024px (lg)
+   =================================== */
+
+@media (min-width: 1024px) {
+  /* Typography */
+  h1 {
+    font-size: 4rem;
+  }
+
+  /* Generator Controls - Sticky Sidebar */
+  .generator-controls {
+    position: sticky;
+    top: 2rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+  }
+
+  /* Main Layout */
+  .main-layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+  }
+
+  /* Word Grid - 3 columns on desktop */
+  #wordGrid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  /* SEO Content */
+  .seo-section {
+    padding: 3rem;
+  }
+}
+
+/* ===================================
+   Large Desktops
+   min-width: 1280px (xl)
+   =================================== */
+
+@media (min-width: 1280px) {
+  /* Container Max Width */
+  .container {
+    max-width: 1280px;
+  }
+
+  /* Typography */
+  h1 {
+    font-size: 4.5rem;
+  }
+}
+
+/* ===================================
+   Extra Large Desktops
+   min-width: 1536px (2xl)
+   =================================== */
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+
+/* ===================================
+   Mobile Specific Optimizations
+   max-width: 639px
+   =================================== */
+
+@media (max-width: 639px) {
+  /* Generator Controls */
+  .generator-controls {
+    position: static;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  /* Word Grid - 2 columns on mobile */
+  #wordGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  /* Button Groups */
+  .button-group {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .button-group button {
+    width: 100%;
+  }
+
+  /* Export Buttons - Stack on mobile */
+  #exportButtons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #exportButtons button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  /* Reduce padding on mobile */
+  .seo-section {
+    padding: 1.5rem;
+  }
+
+  /* Header */
+  header .text-2xl {
+    font-size: 1.5rem;
+  }
+
+  /* Typography - Smaller on mobile */
+  h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  /* Hero Section */
+  section.text-center p {
+    font-size: 1rem;
+  }
+
+  /* Difficulty Buttons - Smaller text on mobile */
+  .difficulty-btn {
+    font-size: 0.875rem;
+    padding: 0.5rem;
+  }
+
+  /* Toast Notification */
+  #toast {
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+  }
+}
+
+/* ===================================
+   Tablet Portrait Specific
+   min-width: 640px and max-width: 1023px
+   =================================== */
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  /* Center content on tablets */
+  .content-sections {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  /* Word Grid - 3 columns on tablet */
+  #wordGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ===================================
+   Touch Device Optimizations
+   =================================== */
+
+@media (hover: none) and (pointer: coarse) {
+  /* Larger tap targets for touch devices */
+  button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Disable hover effects on touch devices */
+  .word-card:hover {
+    transform: none;
+  }
+
+  button:hover {
+    transform: none;
+  }
+
+  /* Remove sticky positioning on touch devices for better scrolling */
+  .generator-controls {
+    position: static !important;
+  }
+}
+
+/* ===================================
+   Print Styles
+   =================================== */
+
+@media print {
+  /* Hide interactive elements */
+  header,
+  footer,
+  #generateBtn,
+  #exportButtons,
+  #toast,
+  .difficulty-btn {
+    display: none !important;
+  }
+
+  /* Adjust colors for print */
+  body {
+    background: white;
+    color: black;
+  }
+
+  .word-card {
+    border: 1px solid #ccc;
+    background: white;
+    color: black;
+  }
+
+  /* Page breaks */
+  .seo-section {
+    page-break-inside: avoid;
+  }
+}
+
+/* ===================================
+   Dark Mode Support (Optional)
+   =================================== */
+
+@media (prefers-color-scheme: light) {
+  /* If you want to support light mode in the future */
+  /* Currently the design is dark-only */
+}
+
+/* ===================================
+   Landscape Orientation (Mobile)
+   =================================== */
+
+@media (max-width: 900px) and (orientation: landscape) {
+  /* Optimize for mobile landscape */
+  .generator-controls {
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+  }
+
+  /* Reduce vertical spacing */
+  section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+/* ===================================
+   High DPI / Retina Displays
+   =================================== */
+
+@media (-webkit-min-device-pixel-ratio: 2),
+       (min-resolution: 192dpi) {
+  /* Optimize for retina displays if needed */
+  /* Currently using SVG icons which scale perfectly */
+}
+
+/* ===================================
+   Accessibility - Large Text
+   =================================== */
+
+@media (prefers-reduced-transparency: reduce) {
+  .backdrop-blur-sm {
+    backdrop-filter: none;
+  }
+}
+
+/* ===================================
+   Container Queries (Future-proof)
+   =================================== */
+
+/* When container queries become widely supported */
+/* @container (min-width: 400px) { ... } */

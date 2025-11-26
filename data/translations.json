@@ -1,0 +1,592 @@
+{
+  "en": {
+    "nav": {
+      "playOnline": "Play Online"
+    },
+    "generator": {
+      "badge": "Free Word Generator Tool",
+      "title": "Free Imposter Game Generator - Create Custom Word Lists Online",
+      "subtitle": "Generate random words for your imposter game sessions in seconds. Choose from multiple themes, set difficulty levels, and create the perfect word list for any occasion. No signup required - start generating words instantly!",
+      "controls": {
+        "title": "Generator Settings",
+        "theme": "Select Theme",
+        "difficulty": "Difficulty Level",
+        "wordCount": "Number of Words",
+        "generate": "Generate Words"
+      },
+      "themes": {
+        "animals": "Animals",
+        "sports": "Sports & Athletics",
+        "movies": "Movies & Entertainment",
+        "food": "Food & Cuisine",
+        "technology": "Technology",
+        "music": "Music & Instruments",
+        "countries": "Countries & Places",
+        "colors": "Colors & Shades"
+      },
+      "difficulty": {
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard"
+      },
+      "results": {
+        "title": "Generated Words",
+        "empty": "No words generated yet",
+        "emptyHint": "Click the generate button to create your word list",
+        "copy": "Copy All",
+        "copied": "Copied!",
+        "download": "Download",
+        "playNow": "Play with These Words"
+      },
+      "howToUse": {
+        "title": "How to Use Our Imposter Game Generator",
+        "intro": "Our free imposter word generator makes it easy to create custom word lists for your game sessions. Follow these simple steps to generate the perfect words for your imposter game:",
+        "step1": {
+          "title": "Choose Your Theme",
+          "description": "Select from 8 different categories including animals, sports, movies, and more. Each theme contains carefully curated words perfect for imposter games."
+        },
+        "step2": {
+          "title": "Set Difficulty Level",
+          "description": "Pick Easy for beginners, Medium for regular games, or Hard for experienced players. Difficulty affects word complexity and variety."
+        },
+        "step3": {
+          "title": "Adjust Word Count",
+          "description": "Choose between 5 to 20 words. We recommend 10-15 words for most game sessions, adjusting based on player count and game duration."
+        },
+        "step4": {
+          "title": "Generate & Play",
+          "description": "Click generate to create your random word list. Copy, download, or use them directly in your game. Generate as many times as you want - it's completely free!"
+        }
+      },
+      "bestWords": {
+        "title": "Best Words for Imposter Game by Category",
+        "intro": "Choosing the right words is crucial for an engaging imposter game experience. Here are our recommended word categories and why they work well:",
+        "animalsDescription": "Perfect for all ages. Animals are familiar yet diverse enough to create interesting gameplay. Great for family gatherings and educational settings.",
+        "sportsDescription": "Ideal for sports fans and active groups. Sports terminology creates competitive energy and works well for team-building activities.",
+        "moviesDescription": "Excellent for entertainment enthusiasts. Movie titles and characters spark conversation and nostalgia, perfect for casual game nights.",
+        "foodDescription": "Universal appeal across all cultures. Food words are relatable and create a fun, lighthearted atmosphere for any group."
+      },
+      "whyUse": {
+        "title": "Why Use an Imposter Word Generator?",
+        "benefit1": {
+          "title": "Save Time & Effort",
+          "description": "Instead of manually brainstorming words, generate a complete list in seconds. Perfect for impromptu game sessions or when you need fresh ideas quickly."
+        },
+        "benefit2": {
+          "title": "Ensure Fair Gameplay",
+          "description": "Random generation guarantees unbiased word selection. No one can predict or prepare for the words, keeping the game exciting and fair for all players."
+        },
+        "benefit3": {
+          "title": "Discover New Words",
+          "description": "Explore themed categories you might not have considered. Our generator introduces variety and keeps your games fresh, even after multiple sessions."
+        },
+        "benefit4": {
+          "title": "Customize for Any Group",
+          "description": "Adjust difficulty and themes based on your audience. Whether playing with kids, adults, or mixed groups, create the perfect word list for everyone."
+        }
+      },
+      "tips": {
+        "title": "Tips for Better Imposter Game Sessions",
+        "intro": "Maximize your imposter game experience with these professional tips from experienced hosts and players:",
+        "tip1": "Match word difficulty to your group's age and experience level. Start easier and gradually increase complexity as players become familiar with the game.",
+        "tip2": "Mix themes throughout your game session to keep things interesting. Switch between animals, sports, and movies for variety and engagement.",
+        "tip3": "For larger groups (10+ players), use 15-20 words to ensure everyone has enough time to give clues and participate fully.",
+        "tip4": "Save your favorite generated lists by downloading them. Build a collection of tested word sets for different occasions and player groups.",
+        "tip5": "Combine our generator with custom words for the ultimate experience. Use 70% generated words and 30% personalized words relevant to your group."
+      },
+      "faq": {
+        "title": "Imposter Game Generator FAQ",
+        "q1": "How does the imposter game word generator work?",
+        "a1": "Our generator uses curated word databases for each theme. When you click generate, it randomly selects words from your chosen category, ensuring variety and unpredictability. The algorithm prevents duplicate words in a single generation.",
+        "q2": "Is the word generator really free to use?",
+        "a2": "Yes! Our imposter game generator is 100% free with no hidden costs, registrations, or limits. Generate unlimited word lists whenever you need them. We believe everyone should have access to great party game tools.",
+        "q3": "Can I use these words for commercial purposes?",
+        "a3": "Absolutely! Use generated words for personal game nights, commercial events, educational settings, content creation, or any other purpose. The words are common nouns and free to use without restrictions.",
+        "q4": "What's the difference between difficulty levels?",
+        "a4": "Easy mode uses simple, universally known words perfect for children or beginners. Medium offers balanced vocabulary suitable for most groups. Hard includes complex terms, similar concepts, and challenging words for experienced players.",
+        "q5": "Can I suggest new themes or words?",
+        "a5": "We love community input! Contact us with theme suggestions or word recommendations. We regularly update our generator based on user feedback and trending topics to keep the experience fresh and relevant."
+      },
+      "cta": {
+        "title": "Ready to Create Your Perfect Imposter Game?",
+        "description": "Start using our free word generator now and host unforgettable game sessions. Generate unlimited word lists, customize for any group, and play instantly online or offline.",
+        "playNow": "Start Playing Now",
+        "learnMore": "Learn How to Play",
+        "generateNow": "Generate Words Now"
+      },
+      "logo": "Imposter Generator"
+    }
+  },
+  "zh": {
+    "nav": {
+      "playOnline": "在线游戏"
+    },
+    "generator": {
+      "badge": "免费词汇生成器工具",
+      "title": "免费冒名者游戏生成器 - 在线创建自定义词汇列表",
+      "subtitle": "几秒钟内为您的冒名者游戏生成随机词汇。从多个主题中选择，设置难度级别，为任何场合创建完美的词汇列表。无需注册 - 立即开始生成词汇！",
+      "controls": {
+        "title": "生成器设置",
+        "theme": "选择主题",
+        "difficulty": "难度等级",
+        "wordCount": "词汇数量",
+        "generate": "生成词汇"
+      },
+      "themes": {
+        "animals": "动物",
+        "sports": "体育运动",
+        "movies": "电影娱乐",
+        "food": "美食料理",
+        "technology": "科技",
+        "music": "音乐乐器",
+        "countries": "国家地区",
+        "colors": "颜色色彩"
+      },
+      "difficulty": {
+        "easy": "简单",
+        "medium": "中等",
+        "hard": "困难"
+      },
+      "results": {
+        "title": "生成的词汇",
+        "empty": "还没有生成词汇",
+        "emptyHint": "点击生成按钮创建您的词汇列表",
+        "copy": "复制全部",
+        "copied": "已复制！",
+        "download": "下载",
+        "playNow": "使用这些词汇开始游戏"
+      },
+      "howToUse": {
+        "title": "如何使用我们的冒名者游戏生成器",
+        "intro": "我们的免费冒名者词汇生成器让您轻松为游戏创建自定义词汇列表。按照以下简单步骤为您的冒名者游戏生成完美的词汇：",
+        "step1": {
+          "title": "选择您的主题",
+          "description": "从8个不同类别中选择，包括动物、体育、电影等。每个主题都包含精心策划的词汇，非常适合冒名者游戏。"
+        },
+        "step2": {
+          "title": "设置难度等级",
+          "description": "为初学者选择简单，为常规游戏选择中等，或为经验丰富的玩家选择困难。难度会影响词汇的复杂性和多样性。"
+        },
+        "step3": {
+          "title": "调整词汇数量",
+          "description": "在5到20个词汇之间选择。我们建议大多数游戏使用10-15个词汇，根据玩家数量和游戏时长进行调整。"
+        },
+        "step4": {
+          "title": "生成并开始游戏",
+          "description": "点击生成创建您的随机词汇列表。复制、下载或直接在游戏中使用。想生成多少次都可以 - 完全免费！"
+        }
+      },
+      "bestWords": {
+        "title": "按类别推荐的最佳冒名者游戏词汇",
+        "intro": "选择正确的词汇对于引人入胜的冒名者游戏体验至关重要。以下是我们推荐的词汇类别及其优势：",
+        "animalsDescription": "适合所有年龄段。动物既熟悉又足够多样化，可以创造有趣的游戏体验。非常适合家庭聚会和教育场合。",
+        "sportsDescription": "非常适合体育迷和活跃的团体。体育术语创造竞争氛围，非常适合团队建设活动。",
+        "moviesDescription": "娱乐爱好者的绝佳选择。电影标题和角色激发对话和怀旧情绪，非常适合休闲游戏之夜。",
+        "foodDescription": "跨文化的普遍吸引力。食物词汇易于理解，为任何团体创造有趣、轻松的氛围。"
+      },
+      "whyUse": {
+        "title": "为什么使用冒名者词汇生成器？",
+        "benefit1": {
+          "title": "节省时间和精力",
+          "description": "无需手动头脑风暴词汇，几秒钟内生成完整列表。非常适合即兴游戏或快速需要新创意时使用。"
+        },
+        "benefit2": {
+          "title": "确保公平游戏",
+          "description": "随机生成保证公正的词汇选择。没有人能预测或准备词汇，让游戏对所有玩家保持刺激和公平。"
+        },
+        "benefit3": {
+          "title": "发现新词汇",
+          "description": "探索您可能没有考虑过的主题类别。我们的生成器引入多样性，即使经过多次游戏，也能保持新鲜感。"
+        },
+        "benefit4": {
+          "title": "为任何团体定制",
+          "description": "根据您的受众调整难度和主题。无论是与孩子、成人还是混合团体游戏，都能为每个人创建完美的词汇列表。"
+        }
+      },
+      "tips": {
+        "title": "提升冒名者游戏体验的技巧",
+        "intro": "通过这些来自经验丰富的主持人和玩家的专业技巧，最大化您的冒名者游戏体验：",
+        "tip1": "将词汇难度与团体的年龄和经验水平相匹配。从简单开始，随着玩家熟悉游戏逐渐增加复杂性。",
+        "tip2": "在整个游戏过程中混合主题以保持趣味性。在动物、体育和电影之间切换，增加多样性和参与度。",
+        "tip3": "对于较大的团体（10人以上），使用15-20个词汇，确保每个人都有足够的时间给出线索并充分参与。",
+        "tip4": "通过下载保存您最喜欢的生成列表。为不同场合和玩家团体建立经过测试的词汇集合。",
+        "tip5": "将我们的生成器与自定义词汇结合使用，获得终极体验。使用70%生成的词汇和30%与您的团体相关的个性化词汇。"
+      },
+      "faq": {
+        "title": "冒名者游戏生成器常见问题",
+        "q1": "冒名者游戏词汇生成器如何工作？",
+        "a1": "我们的生成器为每个主题使用精心策划的词汇数据库。当您点击生成时，它会从您选择的类别中随机选择词汇，确保多样性和不可预测性。算法防止在单次生成中出现重复词汇。",
+        "q2": "词汇生成器真的免费使用吗？",
+        "a2": "是的！我们的冒名者游戏生成器100%免费，没有隐藏费用、注册要求或使用限制。随时需要时生成无限词汇列表。我们相信每个人都应该能够使用优秀的派对游戏工具。",
+        "q3": "我可以将这些词汇用于商业目的吗？",
+        "a3": "当然可以！将生成的词汇用于个人游戏之夜、商业活动、教育场合、内容创作或任何其他目的。这些词汇是常用名词，可以无限制使用。",
+        "q4": "不同难度级别有什么区别？",
+        "a4": "简单模式使用简单、普遍知晓的词汇，非常适合儿童或初学者。中等提供适合大多数团体的平衡词汇。困难包括复杂术语、相似概念和具有挑战性的词汇，适合经验丰富的玩家。",
+        "q5": "我可以建议新主题或词汇吗？",
+        "a5": "我们喜欢社区意见！请联系我们提出主题建议或词汇推荐。我们会根据用户反馈和热门话题定期更新生成器，保持体验新鲜和相关。"
+      },
+      "cta": {
+        "title": "准备创建您的完美冒名者游戏了吗？",
+        "description": "立即开始使用我们的免费词汇生成器，主持难忘的游戏。生成无限词汇列表，为任何团体定制，在线或离线立即开始游戏。",
+        "playNow": "立即开始游戏",
+        "learnMore": "学习如何游戏",
+        "generateNow": "立即生成词汇"
+      },
+      "logo": "冒名者生成器"
+    }
+  },
+  "ja": {
+    "nav": {
+      "playOnline": "オンラインでプレイ"
+    },
+    "generator": {
+      "badge": "無料単語生成ツール",
+      "title": "無料インポスターゲームジェネレーター - カスタム単語リストをオンラインで作成",
+      "subtitle": "インポスターゲームセッション用のランダムな単語を数秒で生成。複数のテーマから選択し、難易度を設定して、あらゆる場面に最適な単語リストを作成できます。登録不要 - 今すぐ単語生成を開始！",
+      "controls": {
+        "title": "ジェネレーター設定",
+        "theme": "テーマを選択",
+        "difficulty": "難易度レベル",
+        "wordCount": "単語数",
+        "generate": "単語を生成"
+      },
+      "themes": {
+        "animals": "動物",
+        "sports": "スポーツ・運動",
+        "movies": "映画・娯楽",
+        "food": "食べ物・料理",
+        "technology": "テクノロジー",
+        "music": "音楽・楽器",
+        "countries": "国・地域",
+        "colors": "色・色彩"
+      },
+      "difficulty": {
+        "easy": "簡単",
+        "medium": "普通",
+        "hard": "難しい"
+      },
+      "results": {
+        "title": "生成された単語",
+        "empty": "まだ単語が生成されていません",
+        "emptyHint": "生成ボタンをクリックして単語リストを作成",
+        "copy": "すべてコピー",
+        "copied": "コピーしました！",
+        "download": "ダウンロード",
+        "playNow": "これらの単語でプレイ"
+      },
+      "howToUse": {
+        "title": "インポスターゲームジェネレーターの使い方",
+        "intro": "無料のインポスターワードジェネレーターを使えば、ゲームセッション用のカスタム単語リストを簡単に作成できます。以下の簡単な手順で、インポスターゲームに最適な単語を生成しましょう：",
+        "step1": {
+          "title": "テーマを選択",
+          "description": "動物、スポーツ、映画など、8つの異なるカテゴリーから選択できます。各テーマには、インポスターゲームに最適な厳選された単語が含まれています。"
+        },
+        "step2": {
+          "title": "難易度レベルを設定",
+          "description": "初心者には「簡単」、通常のゲームには「普通」、経験豊富なプレイヤーには「難しい」を選択。難易度は単語の複雑さと多様性に影響します。"
+        },
+        "step3": {
+          "title": "単語数を調整",
+          "description": "5から20の単語の間で選択できます。ほとんどのゲームセッションには10-15語をお勧めします。プレイヤー数とゲーム時間に応じて調整してください。"
+        },
+        "step4": {
+          "title": "生成して遊ぶ",
+          "description": "生成をクリックしてランダムな単語リストを作成。コピー、ダウンロード、またはゲームで直接使用できます。何度でも生成可能 - 完全無料です！"
+        }
+      },
+      "bestWords": {
+        "title": "カテゴリー別おすすめインポスターゲーム単語",
+        "intro": "適切な単語を選ぶことは、魅力的なインポスターゲーム体験に不可欠です。おすすめの単語カテゴリーとその利点をご紹介します：",
+        "animalsDescription": "全年齢向けに最適。動物は馴染みがありながらも十分に多様性があり、面白いゲームプレイを生み出します。家族の集まりや教育現場に最適です。",
+        "sportsDescription": "スポーツファンやアクティブなグループに最適。スポーツ用語は競争心を刺激し、チームビルディング活動に最適です。",
+        "moviesDescription": "エンターテイメント愛好家に最適。映画のタイトルやキャラクターは会話とノスタルジアを引き出し、カジュアルなゲームナイトに最適です。",
+        "foodDescription": "すべての文化に普遍的な魅力。食べ物の単語は親しみやすく、あらゆるグループに楽しく軽快な雰囲気を作り出します。"
+      },
+      "whyUse": {
+        "title": "インポスターワードジェネレーターを使う理由",
+        "benefit1": {
+          "title": "時間と労力を節約",
+          "description": "手動で単語をブレインストーミングする代わりに、数秒で完全なリストを生成。即興のゲームセッションや新しいアイデアが必要な時に最適です。"
+        },
+        "benefit2": {
+          "title": "公平なゲームプレイを保証",
+          "description": "ランダム生成により、偏りのない単語選択が保証されます。誰も単語を予測したり準備したりできないため、すべてのプレイヤーにとって刺激的で公平なゲームが維持されます。"
+        },
+        "benefit3": {
+          "title": "新しい単語を発見",
+          "description": "考えもしなかったテーマカテゴリーを探索。ジェネレーターは多様性をもたらし、複数回のセッションを経てもゲームを新鮮に保ちます。"
+        },
+        "benefit4": {
+          "title": "あらゆるグループに対応",
+          "description": "観客に応じて難易度とテーマを調整。子供、大人、または混合グループとのプレイでも、すべての人に最適な単語リストを作成できます。"
+        }
+      },
+      "tips": {
+        "title": "より良いインポスターゲームセッションのためのヒント",
+        "intro": "経験豊富なホストとプレイヤーからのプロのヒントで、インポスターゲーム体験を最大化しましょう：",
+        "tip1": "単語の難易度をグループの年齢と経験レベルに合わせましょう。簡単から始めて、プレイヤーがゲームに慣れるにつれて徐々に複雑さを増していきます。",
+        "tip2": "ゲームセッション全体でテーマを混ぜて面白さを保ちましょう。動物、スポーツ、映画を切り替えて、多様性とエンゲージメントを高めます。",
+        "tip3": "大規模なグループ（10人以上）の場合、15-20語を使用して、全員が十分な時間をかけて手がかりを与え、完全に参加できるようにします。",
+        "tip4": "お気に入りの生成リストをダウンロードして保存しましょう。さまざまな機会やプレイヤーグループ用にテスト済みの単語セットのコレクションを構築します。",
+        "tip5": "究極の体験のために、ジェネレーターとカスタム単語を組み合わせます。70%の生成単語と30%のグループに関連するパーソナライズされた単語を使用します。"
+      },
+      "faq": {
+        "title": "インポスターゲームジェネレーターのよくある質問",
+        "q1": "インポスターゲームワードジェネレーターはどのように機能しますか？",
+        "a1": "ジェネレーターは各テーマに厳選された単語データベースを使用しています。生成をクリックすると、選択したカテゴリーからランダムに単語を選択し、多様性と予測不可能性を保証します。アルゴリズムは単一の生成で重複する単語を防ぎます。",
+        "q2": "ワードジェネレーターは本当に無料で使えますか？",
+        "a2": "はい！インポスターゲームジェネレーターは100%無料で、隠れた費用、登録、制限はありません。必要な時にいつでも無制限に単語リストを生成できます。すべての人が素晴らしいパーティーゲームツールにアクセスできるべきだと信じています。",
+        "q3": "これらの単語を商業目的で使用できますか？",
+        "a3": "もちろんです！生成された単語は、個人的なゲームナイト、商業イベント、教育現場、コンテンツ作成、またはその他の目的に使用できます。単語は一般的な名詞であり、制限なく自由に使用できます。",
+        "q4": "難易度レベルの違いは何ですか？",
+        "a4": "簡単モードは、子供や初心者に最適な、シンプルで普遍的に知られている単語を使用します。普通は、ほとんどのグループに適したバランスの取れた語彙を提供します。難しいには、経験豊富なプレイヤー向けの複雑な用語、類似した概念、挑戦的な単語が含まれます。",
+        "q5": "新しいテーマや単語を提案できますか？",
+        "a5": "コミュニティの意見を歓迎します！テーマの提案や単語の推奨をお気軽にお問い合わせください。ユーザーのフィードバックとトレンドトピックに基づいて、定期的にジェネレーターを更新し、体験を新鮮で関連性のあるものに保っています。"
+      },
+      "cta": {
+        "title": "完璧なインポスターゲームを作る準備はできましたか？",
+        "description": "無料のワードジェネレーターを今すぐ使い始めて、忘れられないゲームセッションをホストしましょう。無制限の単語リストを生成し、あらゆるグループに合わせてカスタマイズし、オンラインまたはオフラインで即座にプレイできます。",
+        "playNow": "今すぐプレイ開始",
+        "learnMore": "遊び方を学ぶ",
+        "generateNow": "今すぐ単語を生成"
+      },
+      "logo": "インポスタージェネレーター"
+    }
+  },
+  "ko": {
+    "nav": {
+      "playOnline": "온라인 플레이"
+    },
+    "generator": {
+      "badge": "무료 단어 생성기 도구",
+      "title": "무료 임포스터 게임 생성기 - 온라인에서 맞춤형 단어 목록 만들기",
+      "subtitle": "몇 초 만에 임포스터 게임 세션을 위한 랜덤 단어를 생성하세요. 다양한 테마 중에서 선택하고 난이도를 설정하여 모든 상황에 완벽한 단어 목록을 만드세요. 가입 불필요 - 즉시 단어 생성을 시작하세요!",
+      "controls": {
+        "title": "생성기 설정",
+        "theme": "테마 선택",
+        "difficulty": "난이도 레벨",
+        "wordCount": "단어 수",
+        "generate": "단어 생성"
+      },
+      "themes": {
+        "animals": "동물",
+        "sports": "스포츠 및 운동",
+        "movies": "영화 및 엔터테인먼트",
+        "food": "음식 및 요리",
+        "technology": "기술",
+        "music": "음악 및 악기",
+        "countries": "국가 및 장소",
+        "colors": "색상 및 색조"
+      },
+      "difficulty": {
+        "easy": "쉬움",
+        "medium": "보통",
+        "hard": "어려움"
+      },
+      "results": {
+        "title": "생성된 단어",
+        "empty": "아직 생성된 단어가 없습니다",
+        "emptyHint": "생성 버튼을 클릭하여 단어 목록을 만드세요",
+        "copy": "모두 복사",
+        "copied": "복사됨!",
+        "download": "다운로드",
+        "playNow": "이 단어로 플레이"
+      },
+      "howToUse": {
+        "title": "임포스터 게임 생성기 사용 방법",
+        "intro": "우리의 무료 임포스터 단어 생성기는 게임 세션을 위한 맞춤형 단어 목록을 쉽게 만들 수 있게 해줍니다. 다음의 간단한 단계를 따라 임포스터 게임을 위한 완벽한 단어를 생성하세요:",
+        "step1": {
+          "title": "테마 선택",
+          "description": "동물, 스포츠, 영화 등 8가지 카테고리 중에서 선택하세요. 각 테마는 임포스터 게임에 완벽한 신중하게 선별된 단어를 포함하고 있습니다."
+        },
+        "step2": {
+          "title": "난이도 레벨 설정",
+          "description": "초보자는 쉬움, 일반 게임은 보통, 경험 많은 플레이어는 어려움을 선택하세요. 난이도는 단어의 복잡성과 다양성에 영향을 미칩니다."
+        },
+        "step3": {
+          "title": "단어 수 조정",
+          "description": "5개에서 20개 사이의 단어를 선택하세요. 대부분의 게임 세션에는 10-15개의 단어를 권장하며, 플레이어 수와 게임 시간에 따라 조정하세요."
+        },
+        "step4": {
+          "title": "생성 및 플레이",
+          "description": "생성을 클릭하여 랜덤 단어 목록을 만드세요. 복사, 다운로드하거나 게임에서 직접 사용하세요. 원하는 만큼 많이 생성하세요 - 완전 무료입니다!"
+        }
+      },
+      "bestWords": {
+        "title": "카테고리별 최고의 임포스터 게임 단어",
+        "intro": "올바른 단어 선택은 매력적인 임포스터 게임 경험에 중요합니다. 다음은 권장 단어 카테고리와 그것이 잘 작동하는 이유입니다:",
+        "animalsDescription": "모든 연령대에 완벽합니다. 동물은 친숙하면서도 흥미로운 게임플레이를 만들 만큼 다양합니다. 가족 모임과 교육 환경에 훌륭합니다.",
+        "sportsDescription": "스포츠 팬과 활동적인 그룹에 이상적입니다. 스포츠 용어는 경쟁적인 에너지를 만들고 팀 빌딩 활동에 잘 작동합니다.",
+        "moviesDescription": "엔터테인먼트 애호가에게 훌륭합니다. 영화 제목과 캐릭터는 대화와 향수를 불러일으켜 캐주얼 게임 나이트에 완벽합니다.",
+        "foodDescription": "모든 문화에 걸쳐 보편적인 매력이 있습니다. 음식 단어는 공감할 수 있고 모든 그룹에 재미있고 가벼운 분위기를 만듭니다."
+      },
+      "whyUse": {
+        "title": "임포스터 단어 생성기를 사용하는 이유는?",
+        "benefit1": {
+          "title": "시간과 노력 절약",
+          "description": "수동으로 단어를 고민하는 대신 몇 초 만에 완전한 목록을 생성하세요. 즉흥 게임 세션이나 빠르게 새로운 아이디어가 필요할 때 완벽합니다."
+        },
+        "benefit2": {
+          "title": "공정한 게임플레이 보장",
+          "description": "랜덤 생성은 편향되지 않은 단어 선택을 보장합니다. 아무도 단어를 예측하거나 준비할 수 없어 모든 플레이어에게 게임을 흥미롭고 공정하게 유지합니다."
+        },
+        "benefit3": {
+          "title": "새로운 단어 발견",
+          "description": "생각하지 못했던 테마 카테고리를 탐색하세요. 우리의 생성기는 다양성을 도입하고 여러 세션 후에도 게임을 신선하게 유지합니다."
+        },
+        "benefit4": {
+          "title": "모든 그룹에 맞게 커스터마이징",
+          "description": "청중에 따라 난이도와 테마를 조정하세요. 어린이, 성인 또는 혼합 그룹과 함께 플레이하든 모두를 위한 완벽한 단어 목록을 만드세요."
+        }
+      },
+      "tips": {
+        "title": "더 나은 임포스터 게임 세션을 위한 팁",
+        "intro": "경험 많은 호스트와 플레이어의 전문 팁으로 임포스터 게임 경험을 극대화하세요:",
+        "tip1": "단어 난이도를 그룹의 연령과 경험 수준에 맞추세요. 더 쉬운 것으로 시작하여 플레이어가 게임에 익숙해지면 점차 복잡성을 높이세요.",
+        "tip2": "게임 세션 내내 테마를 섞어 흥미를 유지하세요. 다양성과 참여도를 위해 동물, 스포츠, 영화 간에 전환하세요.",
+        "tip3": "대규모 그룹(10명 이상)의 경우 15-20개의 단어를 사용하여 모든 사람이 단서를 제공하고 충분히 참여할 시간을 확보하세요.",
+        "tip4": "좋아하는 생성된 목록을 다운로드하여 저장하세요. 다양한 상황과 플레이어 그룹을 위해 테스트된 단어 세트 컬렉션을 구축하세요.",
+        "tip5": "궁극의 경험을 위해 생성기와 사용자 지정 단어를 결합하세요. 70% 생성된 단어와 30% 그룹과 관련된 개인화된 단어를 사용하세요."
+      },
+      "faq": {
+        "title": "임포스터 게임 생성기 FAQ",
+        "q1": "임포스터 게임 단어 생성기는 어떻게 작동하나요?",
+        "a1": "우리의 생성기는 각 테마에 대해 큐레이션된 단어 데이터베이스를 사용합니다. 생성을 클릭하면 선택한 카테고리에서 랜덤으로 단어를 선택하여 다양성과 예측 불가능성을 보장합니다. 알고리즘은 단일 생성에서 중복 단어를 방지합니다.",
+        "q2": "단어 생성기는 정말 무료로 사용할 수 있나요?",
+        "a2": "네! 우리의 임포스터 게임 생성기는 숨겨진 비용, 등록, 제한 없이 100% 무료입니다. 필요할 때마다 무제한으로 단어 목록을 생성하세요. 우리는 모든 사람이 훌륭한 파티 게임 도구에 액세스할 수 있어야 한다고 믿습니다.",
+        "q3": "이 단어들을 상업적 목적으로 사용할 수 있나요?",
+        "a3": "물론입니다! 개인 게임 나이트, 상업 이벤트, 교육 환경, 콘텐츠 제작 또는 기타 목적으로 생성된 단어를 사용하세요. 단어는 일반 명사이며 제한 없이 자유롭게 사용할 수 있습니다.",
+        "q4": "난이도 레벨 간의 차이점은 무엇인가요?",
+        "a4": "쉬움 모드는 어린이나 초보자에게 완벽한 간단하고 보편적으로 알려진 단어를 사용합니다. 보통은 대부분의 그룹에 적합한 균형 잡힌 어휘를 제공합니다. 어려움은 경험 많은 플레이어를 위한 복잡한 용어, 유사한 개념 및 도전적인 단어를 포함합니다.",
+        "q5": "새로운 테마나 단어를 제안할 수 있나요?",
+        "a5": "커뮤니티 의견을 환영합니다! 테마 제안이나 단어 추천으로 문의하세요. 경험을 신선하고 관련성 있게 유지하기 위해 사용자 피드백과 트렌드 주제를 기반으로 생성기를 정기적으로 업데이트합니다."
+      },
+      "cta": {
+        "title": "완벽한 임포스터 게임을 만들 준비가 되셨나요?",
+        "description": "지금 무료 단어 생성기를 사용하여 잊을 수 없는 게임 세션을 호스팅하세요. 무제한 단어 목록을 생성하고, 모든 그룹에 맞게 커스터마이징하고, 온라인 또는 오프라인으로 즉시 플레이하세요.",
+        "playNow": "지금 플레이 시작",
+        "learnMore": "플레이 방법 배우기",
+        "generateNow": "지금 단어 생성"
+      },
+      "logo": "임포스터 생성기"
+    }
+  },
+  "es": {
+    "nav": {
+      "playOnline": "Jugar en Línea"
+    },
+    "generator": {
+      "badge": "Herramienta Generadora de Palabras Gratis",
+      "title": "Generador Gratis de Juego Impostor - Crea Listas de Palabras Personalizadas en Línea",
+      "subtitle": "Genera palabras aleatorias para tus sesiones de juego impostor en segundos. Elige entre múltiples temas, establece niveles de dificultad y crea la lista de palabras perfecta para cualquier ocasión. ¡No se requiere registro - comienza a generar palabras al instante!",
+      "controls": {
+        "title": "Configuración del Generador",
+        "theme": "Seleccionar Tema",
+        "difficulty": "Nivel de Dificultad",
+        "wordCount": "Número de Palabras",
+        "generate": "Generar Palabras"
+      },
+      "themes": {
+        "animals": "Animales",
+        "sports": "Deportes y Atletismo",
+        "movies": "Películas y Entretenimiento",
+        "food": "Comida y Cocina",
+        "technology": "Tecnología",
+        "music": "Música e Instrumentos",
+        "countries": "Países y Lugares",
+        "colors": "Colores y Tonalidades"
+      },
+      "difficulty": {
+        "easy": "Fácil",
+        "medium": "Medio",
+        "hard": "Difícil"
+      },
+      "results": {
+        "title": "Palabras Generadas",
+        "empty": "Aún no se han generado palabras",
+        "emptyHint": "Haz clic en el botón generar para crear tu lista de palabras",
+        "copy": "Copiar Todo",
+        "copied": "¡Copiado!",
+        "download": "Descargar",
+        "playNow": "Jugar con Estas Palabras"
+      },
+      "howToUse": {
+        "title": "Cómo Usar Nuestro Generador de Juego Impostor",
+        "intro": "Nuestro generador de palabras impostor gratuito facilita la creación de listas de palabras personalizadas para tus sesiones de juego. Sigue estos sencillos pasos para generar las palabras perfectas para tu juego impostor:",
+        "step1": {
+          "title": "Elige Tu Tema",
+          "description": "Selecciona entre 8 categorías diferentes que incluyen animales, deportes, películas y más. Cada tema contiene palabras cuidadosamente seleccionadas perfectas para juegos impostor."
+        },
+        "step2": {
+          "title": "Establece el Nivel de Dificultad",
+          "description": "Elige Fácil para principiantes, Medio para juegos regulares o Difícil para jugadores experimentados. La dificultad afecta la complejidad y variedad de las palabras."
+        },
+        "step3": {
+          "title": "Ajusta el Número de Palabras",
+          "description": "Elige entre 5 y 20 palabras. Recomendamos 10-15 palabras para la mayoría de las sesiones de juego, ajustando según el número de jugadores y la duración del juego."
+        },
+        "step4": {
+          "title": "Genera y Juega",
+          "description": "Haz clic en generar para crear tu lista de palabras aleatorias. Copia, descarga o úsalas directamente en tu juego. ¡Genera tantas veces como quieras - es completamente gratis!"
+        }
+      },
+      "bestWords": {
+        "title": "Mejores Palabras para Juego Impostor por Categoría",
+        "intro": "Elegir las palabras correctas es crucial para una experiencia de juego impostor atractiva. Aquí están nuestras categorías de palabras recomendadas y por qué funcionan bien:",
+        "animalsDescription": "Perfectas para todas las edades. Los animales son familiares pero lo suficientemente diversos para crear un juego interesante. Ideales para reuniones familiares y entornos educativos.",
+        "sportsDescription": "Ideales para fanáticos del deporte y grupos activos. La terminología deportiva crea energía competitiva y funciona bien para actividades de team building.",
+        "moviesDescription": "Excelentes para entusiastas del entretenimiento. Títulos de películas y personajes generan conversación y nostalgia, perfectos para noches de juego casuales.",
+        "foodDescription": "Atractivo universal en todas las culturas. Las palabras de comida son relacionables y crean una atmósfera divertida y ligera para cualquier grupo."
+      },
+      "whyUse": {
+        "title": "¿Por Qué Usar un Generador de Palabras Impostor?",
+        "benefit1": {
+          "title": "Ahorra Tiempo y Esfuerzo",
+          "description": "En lugar de hacer una lluvia de ideas manual de palabras, genera una lista completa en segundos. Perfecto para sesiones de juego improvisadas o cuando necesitas ideas frescas rápidamente."
+        },
+        "benefit2": {
+          "title": "Garantiza Juego Justo",
+          "description": "La generación aleatoria garantiza una selección de palabras imparcial. Nadie puede predecir o prepararse para las palabras, manteniendo el juego emocionante y justo para todos los jugadores."
+        },
+        "benefit3": {
+          "title": "Descubre Nuevas Palabras",
+          "description": "Explora categorías temáticas que quizás no hayas considerado. Nuestro generador introduce variedad y mantiene tus juegos frescos, incluso después de múltiples sesiones."
+        },
+        "benefit4": {
+          "title": "Personaliza para Cualquier Grupo",
+          "description": "Ajusta la dificultad y los temas según tu audiencia. Ya sea jugando con niños, adultos o grupos mixtos, crea la lista de palabras perfecta para todos."
+        }
+      },
+      "tips": {
+        "title": "Consejos para Mejores Sesiones de Juego Impostor",
+        "intro": "Maximiza tu experiencia de juego impostor con estos consejos profesionales de anfitriones y jugadores experimentados:",
+        "tip1": "Ajusta la dificultad de las palabras a la edad y nivel de experiencia de tu grupo. Comienza más fácil y aumenta gradualmente la complejidad a medida que los jugadores se familiaricen con el juego.",
+        "tip2": "Mezcla temas a lo largo de tu sesión de juego para mantener las cosas interesantes. Alterna entre animales, deportes y películas para variedad y compromiso.",
+        "tip3": "Para grupos grandes (más de 10 jugadores), usa 15-20 palabras para asegurar que todos tengan suficiente tiempo para dar pistas y participar plenamente.",
+        "tip4": "Guarda tus listas generadas favoritas descargándolas. Construye una colección de conjuntos de palabras probados para diferentes ocasiones y grupos de jugadores.",
+        "tip5": "Combina nuestro generador con palabras personalizadas para la experiencia definitiva. Usa 70% palabras generadas y 30% palabras personalizadas relevantes para tu grupo."
+      },
+      "faq": {
+        "title": "FAQ del Generador de Juego Impostor",
+        "q1": "¿Cómo funciona el generador de palabras de juego impostor?",
+        "a1": "Nuestro generador utiliza bases de datos de palabras curadas para cada tema. Cuando haces clic en generar, selecciona aleatoriamente palabras de tu categoría elegida, asegurando variedad e imprevisibilidad. El algoritmo previene palabras duplicadas en una sola generación.",
+        "q2": "¿El generador de palabras es realmente gratis de usar?",
+        "a2": "¡Sí! Nuestro generador de juego impostor es 100% gratuito sin costos ocultos, registros ni límites. Genera listas de palabras ilimitadas cuando las necesites. Creemos que todos deberían tener acceso a grandes herramientas de juegos de fiesta.",
+        "q3": "¿Puedo usar estas palabras con fines comerciales?",
+        "a3": "¡Por supuesto! Usa las palabras generadas para noches de juegos personales, eventos comerciales, entornos educativos, creación de contenido o cualquier otro propósito. Las palabras son sustantivos comunes y de uso libre sin restricciones.",
+        "q4": "¿Cuál es la diferencia entre los niveles de dificultad?",
+        "a4": "El modo Fácil usa palabras simples y universalmente conocidas perfectas para niños o principiantes. Medio ofrece vocabulario equilibrado adecuado para la mayoría de grupos. Difícil incluye términos complejos, conceptos similares y palabras desafiantes para jugadores experimentados.",
+        "q5": "¿Puedo sugerir nuevos temas o palabras?",
+        "a5": "¡Nos encanta la contribución de la comunidad! Contáctanos con sugerencias de temas o recomendaciones de palabras. Actualizamos regularmente nuestro generador basándonos en comentarios de usuarios y temas de tendencia para mantener la experiencia fresca y relevante."
+      },
+      "cta": {
+        "title": "¿Listo para Crear Tu Juego Impostor Perfecto?",
+        "description": "Comienza a usar nuestro generador de palabras gratuito ahora y organiza sesiones de juego inolvidables. Genera listas de palabras ilimitadas, personaliza para cualquier grupo y juega instantáneamente en línea u offline.",
+        "playNow": "Comenzar a Jugar Ahora",
+        "learnMore": "Aprender a Jugar",
+        "generateNow": "Generar Palabras Ahora"
+      },
+      "logo": "Generador de Impostor"
+    }
+  }
+}

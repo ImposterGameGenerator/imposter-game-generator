@@ -1,0 +1,222 @@
+{
+  "en": {
+    "generator": {
+      "logo": "Imposter Generator",
+      "badge": "Free Word Generator Tool",
+      "title": "Free Imposter Game Generator - Create Custom Word Lists Online",
+      "subtitle": "Generate random words for your imposter game sessions in seconds. Choose from multiple themes, set difficulty levels, and create the perfect word list for any occasion. No signup required - start generating words instantly!",
+      "controls": {
+        "title": "Generator Settings",
+        "theme": "Select Theme",
+        "difficulty": "Difficulty Level",
+        "wordCount": "Number of Words",
+        "generate": "Generate Words"
+      },
+      "themes": {
+        "animals": "Animals",
+        "sports": "Sports & Athletics",
+        "movies": "Movies & Entertainment",
+        "food": "Food & Cuisine",
+        "technology": "Technology",
+        "music": "Music & Instruments",
+        "countries": "Countries & Places",
+        "colors": "Colors & Shades"
+      },
+      "difficulty": {
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard"
+      },
+      "results": {
+        "title": "Generated Words",
+        "empty": "No words generated yet",
+        "emptyHint": "Click the generate button to create your word list",
+        "copy": "Copy All",
+        "copied": "Copied!",
+        "download": "Download",
+        "playNow": "Play with These Words"
+      },
+      "toast": {
+        "copied": "Words copied to clipboard!",
+        "downloaded": "File downloaded successfully!",
+        "error": "Something went wrong. Please try again."
+      }
+    }
+  },
+  "zh": {
+    "generator": {
+      "logo": "冒名者生成器",
+      "badge": "免费词汇生成器工具",
+      "title": "免费冒名者游戏生成器 - 在线创建自定义词汇列表",
+      "subtitle": "几秒钟内为您的冒名者游戏生成随机词汇。从多个主题中选择，设置难度级别，为任何场合创建完美的词汇列表。无需注册 - 立即开始生成词汇！",
+      "controls": {
+        "title": "生成器设置",
+        "theme": "选择主题",
+        "difficulty": "难度等级",
+        "wordCount": "词汇数量",
+        "generate": "生成词汇"
+      },
+      "themes": {
+        "animals": "动物",
+        "sports": "体育运动",
+        "movies": "电影娱乐",
+        "food": "美食料理",
+        "technology": "科技",
+        "music": "音乐乐器",
+        "countries": "国家地区",
+        "colors": "颜色色彩"
+      },
+      "difficulty": {
+        "easy": "简单",
+        "medium": "中等",
+        "hard": "困难"
+      },
+      "results": {
+        "title": "生成的词汇",
+        "empty": "还没有生成词汇",
+        "emptyHint": "点击生成按钮创建您的词汇列表",
+        "copy": "复制全部",
+        "copied": "已复制！",
+        "download": "下载",
+        "playNow": "使用这些词汇开始游戏"
+      },
+      "toast": {
+        "copied": "词汇已复制到剪贴板！",
+        "downloaded": "文件下载成功！",
+        "error": "出错了，请重试。"
+      }
+    }
+  },
+  "ja": {
+    "generator": {
+      "logo": "インポスタージェネレーター",
+      "badge": "無料単語ジェネレーターツール",
+      "title": "無料インポスターゲームジェネレーター - オンラインでカスタム単語リストを作成",
+      "subtitle": "数秒でインポスターゲームセッション用のランダムな単語を生成します。複数のテーマから選択し、難易度を設定して、あらゆる機会に最適な単語リストを作成できます。登録不要 - すぐに単語生成を開始！",
+      "controls": {
+        "title": "ジェネレーター設定",
+        "theme": "テーマを選択",
+        "difficulty": "難易度レベル",
+        "wordCount": "単語数",
+        "generate": "単語を生成"
+      },
+      "themes": {
+        "animals": "動物",
+        "sports": "スポーツと運動",
+        "movies": "映画とエンターテイメント",
+        "food": "食べ物と料理",
+        "technology": "テクノロジー",
+        "music": "音楽と楽器",
+        "countries": "国と場所",
+        "colors": "色と色合い"
+      },
+      "difficulty": {
+        "easy": "簡単",
+        "medium": "普通",
+        "hard": "難しい"
+      },
+      "results": {
+        "title": "生成された単語",
+        "empty": "まだ単語が生成されていません",
+        "emptyHint": "生成ボタンをクリックして単語リストを作成してください",
+        "copy": "すべてコピー",
+        "copied": "コピーしました！",
+        "download": "ダウンロード",
+        "playNow": "これらの単語でプレイ"
+      },
+      "toast": {
+        "copied": "クリップボードにコピーしました！",
+        "downloaded": "ファイルのダウンロードが成功しました！",
+        "error": "エラーが発生しました。もう一度お試しください。"
+      }
+    }
+  },
+  "ko": {
+    "generator": {
+      "logo": "임포스터 생성기",
+      "badge": "무료 단어 생성기 도구",
+      "title": "무료 임포스터 게임 생성기 - 온라인으로 사용자 정의 단어 목록 만들기",
+      "subtitle": "몇 초 만에 임포스터 게임 세션용 무작위 단어를 생성하세요. 여러 테마 중에서 선택하고 난이도를 설정하여 모든 상황에 완벽한 단어 목록을 만드세요. 가입 불필요 - 지금 바로 단어 생성 시작!",
+      "controls": {
+        "title": "생성기 설정",
+        "theme": "테마 선택",
+        "difficulty": "난이도",
+        "wordCount": "단어 수",
+        "generate": "단어 생성"
+      },
+      "themes": {
+        "animals": "동물",
+        "sports": "스포츠와 운동",
+        "movies": "영화와 엔터테인먼트",
+        "food": "음식과 요리",
+        "technology": "기술",
+        "music": "음악과 악기",
+        "countries": "국가와 장소",
+        "colors": "색상과 음영"
+      },
+      "difficulty": {
+        "easy": "쉬움",
+        "medium": "보통",
+        "hard": "어려움"
+      },
+      "results": {
+        "title": "생성된 단어",
+        "empty": "아직 단어가 생성되지 않았습니다",
+        "emptyHint": "생성 버튼을 클릭하여 단어 목록을 만드세요",
+        "copy": "모두 복사",
+        "copied": "복사됨!",
+        "download": "다운로드",
+        "playNow": "이 단어로 플레이"
+      },
+      "toast": {
+        "copied": "클립보드에 복사되었습니다!",
+        "downloaded": "파일 다운로드가 성공했습니다!",
+        "error": "문제가 발생했습니다. 다시 시도해주세요."
+      }
+    }
+  },
+  "es": {
+    "generator": {
+      "logo": "Generador Impostor",
+      "badge": "Herramienta Generadora de Palabras Gratis",
+      "title": "Generador Gratuito de Juego Impostor - Crea Listas de Palabras Personalizadas en Línea",
+      "subtitle": "Genera palabras aleatorias para tus sesiones de juego impostor en segundos. Elige entre múltiples temas, establece niveles de dificultad y crea la lista de palabras perfecta para cualquier ocasión. No requiere registro - ¡comienza a generar palabras al instante!",
+      "controls": {
+        "title": "Configuración del Generador",
+        "theme": "Seleccionar Tema",
+        "difficulty": "Nivel de Dificultad",
+        "wordCount": "Número de Palabras",
+        "generate": "Generar Palabras"
+      },
+      "themes": {
+        "animals": "Animales",
+        "sports": "Deportes y Atletismo",
+        "movies": "Películas y Entretenimiento",
+        "food": "Comida y Cocina",
+        "technology": "Tecnología",
+        "music": "Música e Instrumentos",
+        "countries": "Países y Lugares",
+        "colors": "Colores y Tonos"
+      },
+      "difficulty": {
+        "easy": "Fácil",
+        "medium": "Medio",
+        "hard": "Difícil"
+      },
+      "results": {
+        "title": "Palabras Generadas",
+        "empty": "Aún no se han generado palabras",
+        "emptyHint": "Haz clic en el botón generar para crear tu lista de palabras",
+        "copy": "Copiar Todo",
+        "copied": "¡Copiado!",
+        "download": "Descargar",
+        "playNow": "Jugar con Estas Palabras"
+      },
+      "toast": {
+        "copied": "¡Palabras copiadas al portapapeles!",
+        "downloaded": "¡Archivo descargado exitosamente!",
+        "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+      }
+    }
+  }
+}
