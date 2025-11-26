@@ -1,14 +1,12 @@
 # 🎮 Imposter Game Word Generator
 
-[English](README.md) | [中文](README.zh.md)
-
 ![GitHub Stars](https://img.shields.io/github/stars/ImposterGameGenerator/imposter-game-generator?style=social)
 ![License](https://img.shields.io/github/license/ImposterGameGenerator/imposter-game-generator)
 ![Languages](https://img.shields.io/badge/languages-5-brightgreen)
 
 > A free, multilingual word generator for imposter games. Generate random words instantly in 5 languages with 8 themed categories.
 
-[🎮 Live Demo](https://impostergame.net/generator) | [📖 Documentation](#documentation) | [🤝 Contributing](#contributing)
+[🎮 Live Demo](https://impostergame.net/imposter-game-generator) | [📖 Documentation](#documentation) | [🤝 Contributing](#contributing)
 
 ---
 
@@ -49,7 +47,7 @@
 ## 🚀 Quick Start
 
 ### Option 1: Use Online (Recommended)
-Visit **[https://impostergame.net/generator](https://impostergame.net/generator)** to start generating words immediately!
+Visit **[https://impostergame.net/imposter-game-generator](https://impostergame.net/imposter-game-generator)** to start generating words immediately!
 
 ### Option 2: Run Locally
 
