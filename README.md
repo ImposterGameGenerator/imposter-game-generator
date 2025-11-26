@@ -6,7 +6,7 @@
 
 > A free, multilingual word generator for imposter games. Generate random words instantly in 5 languages with 8 themed categories.
 
-[🎮 Live Demo](https://impostergame.net/imposter-game-generator) | [📖 Documentation](#documentation) | [🤝 Contributing](#contributing)
+[🎮 Live Demo](https://impostergame.net/imposter-game-generator)
 
 ---
 
@@ -218,16 +218,7 @@ See [LICENSE](LICENSE) for details.
 ## 📞 Support
 
 - 🐛 [Report Issues](https://github.com/ImposterGameGenerator/imposter-game-generator/issues)
-- 💬 [Discussions](https://github.com/ImposterGameGenerator/imposter-game-generator/discussions)
-- 📧 Contact: [Your Email]
-
----
-
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ImposterGameGenerator/imposter-game-generator&type=Date)](https://star-history.com/#ImposterGameGenerator/imposter-game-generator&Date)
+- 📧 Contact: support@impostergame.net
 
 ---
 
